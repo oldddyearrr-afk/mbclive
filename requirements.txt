@@ -3,3 +3,4 @@ telegram>=0.0.1
 aiohttp
 ffmpeg-python
 requests
+asyncio
