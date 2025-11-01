@@ -11,7 +11,7 @@
   "CRF": "22",
   "WATERMARK_TEXT": "@xl9rr",
   "WATERMARK_MODE": "static",
-  "WATERMARK_POSITION": "top-left",
+  "WATERMARK_POSITION": "bottom-center",
   "ADD_TIMESTAMP": false,
   "BUFFER_SIZE": 2,
   "BACKUP_INTERVAL": 3600
