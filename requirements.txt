@@ -1,5 +1,4 @@
 python-telegram-bot>=22.5
-telegram>=0.0.1
 aiohttp
 ffmpeg-python
 requests
